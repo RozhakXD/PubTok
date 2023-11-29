@@ -44,9 +44,9 @@ Followers will arrive to your account in less than 30 minutes, but it can take m
 - The server is undergoing repairs or is experiencing an error.
 
 ### The trick to exchanging multiple times?
+- Change the target account you want to add followers to.
 - You must change your TikTok username to be able to use this service again.
 - You can only change your username once a month!
-- Change the target account you want to add followers to.
 
 ### Having trouble?
 This is just a tools that makes it easy for us to send followers, all problems are caused by users or servers being down!
