@@ -18,7 +18,6 @@
 
 ### What is PubTok?
 [**PubTok**](https://github.com/RozhakXD/PubTok) is a free tools provided by the server to get tiktok followers without logging in!
-
 This tools has limitations when sending followers and sudden problems or maintenance often occur.
 
 ### Termux command?
