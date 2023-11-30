@@ -1,3 +1,11 @@
 from Run import Jalankan_Cython
+import platform
 
-Jalankan_Cython()
+try:
+    if '64bit' in str(platform.architecture()):
+        Jalankan_Cython()
+    else:
+        print("Kode ini hanya untuk CPU 64 bit!")
+        exit()
+except (Exception, KeyboardInterrupt) as e:
+    exit(f"[Error] {str(e).capitalize()}!")
