@@ -20,19 +20,22 @@
 [**PubTok**](https://github.com/RozhakXD/PubTok) is a free tools provided by the server to get tiktok followers without logging in. This tools has limitations when sending followers and sudden problems or maintenance often occur.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://youtube.com/rozhakid). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/05dvOzGNc7o). Then you enter some basic commands below!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
 $ git clone https://github.com/RozhakXD/PubTok
 $ cd "PubTok"
 $ python -m pip install -r requirements.txt
-$ python Run.py
+$ uname -m
+$ chmod +x aarch64
+$ ./aarch64
 ```
 
 ```
 $ cd "$HOME/PubTok" && git pul
-$ python Run.py
+$ chmod +x aarch64
+$ ./aarch64
 ```
 
 ### When will the followers arrive?
